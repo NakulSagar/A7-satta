@@ -19,10 +19,10 @@
                <div class="col-md-16 nopadding">
                   <div class="newnav">
                      <ul>
-                        <li><a class="active" href="/">Home</a></li>
-                        <li><a class="" href="/chart">Chart</a></li>
-                        <li><a class="" href="/contact">Contact</a></li>
-                        <li><a class="" href="/disclaimer">Disclaimer</a></li>
+                        <li><a class="active" href="index.html">Home</a></li>
+                        <li><a class="" href="chart.html">Chart</a></li>
+                        <li><a class="" href="contact.html">Contact</a></li>
+                        <li><a class="" href="disclaimer.html">Disclaimer</a></li>
                      </ul>
                      <div class="clearfix"></div>
                   </div>
@@ -57,48 +57,93 @@
         </div>
     </div>
     <div class="forChart termspage">
-        <p>Welcome to the A7satta.com Privacy Policy Page.</p>
-        <p>This Privacy Policy describes how we collect, use, and disclose your personal information when you visit our website.</p>
-        <h2>Information We Collect</h2>
-        <p>We may collect and process the following information:</p>
-        <ul>
-            <li><strong>Personal Information:</strong> We may collect personal information such as your name, email address, and other contact details when you voluntarily provide them to us through forms or other means.</li>
-            <li><strong>Usage Data</strong>: We may collect information about how you use our website, including your IP address, browser type, pages visited, and other usage statistics</li>
-        </ul>
-        <h2>Use of Information</h2>
-        <p>We use the collected information for the following purposes:</p>
-        <ul>
-            <li>To provide and maintain our website.</li>
-            <li>To personalize your experience and deliver content and features tailored to your interests.</li>
-            <li>To analyze and improve the performance and functionality of our website.</li>
-            <li>To communicate with you, respond to your inquiries, and send you updates.</li>
-        </ul>
-        <h2>Disclosure of Information</h2>
-        <p>We may disclose your personal information to third parties only in the following circumstances:</p>
-        <ul>
-            <li>With your consent.</li>
-            <li>If required by law or legal process.</li>
-            <li>To protect and defend our rights and property.</li>
-        </ul>
-        <h2>Cookies</h2>
-        <p>
-            We use cookies and similar tracking technologies to enhance your experience on our website. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser
-            setting to decline cookies if you prefer.
-        </p>
-        <h2>Security</h2>
-        <p>We are committed to ensuring that your information is secure. We implement reasonable security measures to protect your personal information from unauthorized access, disclosure, alteration, and destruction.</p>
-        <h2>Changes to this Privacy Policy</h2>
-        <p>We reserve the right to update or change our Privacy Policy at any time. Any changes will be effective immediately upon posting the updated Privacy Policy on the website.</p>
-        <h2>Contact Information</h2>
-        <p>If you have any questions or concerns about our Privacy Policy, please contact us at mail@a7satta.com.</p>
-        <p>Thank you for trusting us with your personal information. We are committed to protecting your privacy and providing a safe online experience.</p>
-        <p><br /></p>
+        <h2><strong>1. Information We Collect</strong></h2>
+		<p><span>We may collect and process the following types of information from you:</span></p>
+		<h3><strong>a. Personal Information</strong></h3>
+		<p><span>When you voluntarily provide it, we may collect personal details such as:</span></p>
+		<ul>
+		<li><span>Name</span></li>
+		<li><span>Email address</span></li>
+		<li><span>Contact number or other identifying information</span></li>
+		</ul>
+		<p><span>This data is typically collected when you:</span></p>
+		<ul>
+		<li><span>Fill out contact or registration forms</span></li>
+		<li><span>Subscribe to newsletters or updates</span></li>
+		<li><span>Communicate with us directly</span></li>
+		</ul>
+		<h3><strong>b. Usage Data</strong></h3>
+		<p><span>We automatically collect certain information about your visit, including:</span></p>
+		<ul>
+		<li><span>IP address and device information</span></li>
+		<li><span>Browser type and version</span></li>
+		<li><span>Operating system</span></li>
+		<li><span>Pages visited, time spent on each page, and referring URLs</span></li>
+		<li><span>General location (based on IP address)</span></li>
+		</ul>
+		<p><span>This information helps us understand how users interact with our Site and improve our services.</span></p>
+		<h3><strong>c. Cookies and Tracking Technologies</strong></h3>
+		<p><span>Our Site uses cookies, web beacons, and similar technologies to enhance your browsing experience and analyze website traffic.</span><span><br /></span><span> Cookies allow us to:</span></p>
+		<ul>
+		<li><span>Store your preferences</span></li>
+		<li><span>Personalize content</span></li>
+		<li><span>Recognize repeat visitors</span></li>
+		</ul>
+		<p><span>You can modify your browser settings to refuse cookies or alert you when cookies are being used. However, disabling cookies may limit certain functionalities of the Site.</span></p>
+		<h2><strong>2. How We Use Your Information</strong></h2>
+		<p><span>We may use the collected information for the following purposes:</span></p>
+		<ul>
+		<li><span>To operate, maintain, and improve the functionality of our Site</span></li>
+		<li><span>To personalize user experience and deliver content relevant to your interests</span></li>
+		<li><span>To analyze trends, monitor usage, and optimize performance</span></li>
+		<li><span>To communicate with you, respond to inquiries, and provide customer support</span></li>
+		<li><span>To send you administrative messages, updates, or promotional content (where permitted)</span></li>
+		<li><span>To protect against fraud, unauthorized access, or illegal activities</span></li>
+		<li><span>To comply with legal obligations and enforce our Terms and Conditions</span></li>
+		</ul>
+		<h2><strong>3. Disclosure of Information</strong></h2>
+		<p><span>We do </span><strong>not</strong><span> sell, rent, or trade your personal information to third parties.</span><span><br /></span><span> We may share your information only under the following circumstances:</span></p>
+		<ul>
+		<li><strong>With your consent:</strong><span> When you have explicitly agreed to share your information.</span></li>
+		<li><strong>Legal requirements:</strong><span> When disclosure is required by law, regulation, or legal process.</span></li>
+		<li><strong>Protection of rights:</strong><span> To enforce our Terms, protect our property, or defend against legal claims.</span></li>
+		<li><strong>Service providers:</strong><span> With trusted third-party vendors who assist us in operating the Site or performing services on our behalf (e.g., analytics, hosting, or email communication), subject to confidentiality agreements.</span></li>
+		</ul>
+		<h2><strong>4. Data Retention</strong></h2>
+		<p><span>We retain personal information only as long as necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required by law.</span><span><br /></span><span> When data is no longer needed, it will be securely deleted or anonymized.</span></p>
+		<h2><strong>5. Data Security</strong></h2>
+		<p><span>We implement appropriate technical and organizational measures to safeguard your information against:</span></p>
+		<ul>
+		<li><span>Unauthorized access or disclosure</span></li>
+		<li><span>Alteration, loss, or destruction</span></li>
+		</ul>
+		<p><span>While we strive to protect your data, please note that no online transmission or storage system can be completely secure. Use of the Site is at your own risk.</span></p>
+		<h2><strong>6. Your Data Rights</strong></h2>
+		<p><span>Depending on your jurisdiction, you may have certain rights regarding your personal data, including the right to:</span></p>
+		<ul>
+		<li><span>Access and review the information we hold about you</span></li>
+		<li><span>Request correction or deletion of your data</span></li>
+		<li><span>Withdraw consent for processing (where applicable)</span></li>
+		<li><span>Opt-out of receiving promotional communications</span></li>
+		</ul>
+		<p><span>You may exercise these rights by contacting us at </span><strong>support@a7satta.com.in</strong><span>.</span></p>
+		<h2><strong>7. Third-Party Links</strong></h2>
+		<p><span>Our Site may contain links to third-party websites or services that are not operated or controlled by us.</span><span><br /></span><span> We are not responsible for the privacy practices or content of such external sites.</span><span><br /></span><span> We encourage you to review their privacy policies before providing any personal information.</span></p>
+		<h2><strong>8. Children&rsquo;s Privacy</strong></h2>
+		<p><span>This Site is </span><strong>not intended for individuals under the age of 18</strong><span>.</span><span><br /></span><span> We do not knowingly collect personal information from minors.</span><span><br /></span><span> If we become aware that data from anyone under 18 has been collected, we will delete it promptly.</span></p>
+		<h2><strong>9. Changes to This Privacy Policy</strong></h2>
+		<p><span>We reserve the right to update or modify this Privacy Policy at any time without prior notice.</span><span><br /></span><span> Changes take effect immediately upon posting the revised version on this page.</span><span><br /></span><span> We encourage you to review this Policy periodically to stay informed about how we protect your data.</span></p>
+		<h2><strong>10. Contact Us</strong></h2>
+		<p><span>If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us:</span></p>
+		<p><span>📧 </span><strong>support@a7satta.com.in</strong><strong><br /></strong><span> 🌐</span><a href="https://a7-satta.co.in/"> <strong>https://a7-satta.co.in</strong></a></p>
+		<h2><strong>11. Acknowledgment</strong></h2>
+		<p><span>By accessing or using this Site, you acknowledge that you have read and understood this Privacy Policy and agree to its terms.</span></p>
     </div>
 </section>
 
 
 
-<section class="somelinks" style="overflow: hidden;"><a class="yellow-link mx-4" href="/privacy-policy">Privacy Policy</a><a class="yellow-link" href="/terms-and-conditions">Terms &amp; Conditions</a><br /></section>
+<section class="somelinks" style="overflow: hidden;"><a class="yellow-link mx-4" href="privacy-policy.html">Privacy Policy</a><a class="yellow-link" href="terms-and-conditions.html">Terms &amp; Conditions</a><br /></section>
 <section class="somelinks2">
     <div class="container">
         <div class="row">

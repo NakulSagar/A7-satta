@@ -1113,7 +1113,7 @@ body {
 }
 
 a {
-    color: red;
+    color: #000;
 }
 
 .blur {
@@ -1269,9 +1269,9 @@ a {
     display: grid;
     grid-auto-flow: row;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-gap: 5px;
-    gap: 5px;
-    padding: 10px
+    grid-gap: 15px;
+    gap: 15px;
+    padding: 20px 10px 10px
 }
 
 .yellow-one {
@@ -1289,11 +1289,22 @@ a {
 
 .single-pill {
     background: #ffd800;
-    border-radius: 5px;
+    border-radius: 35px;
     color: #000;
     font-weight: 500;
     padding-bottom: 10px;
     padding-top: 10px
+}
+
+.single-pill {
+    background: #ffd800;
+    border-radius: 35px;
+    color: #000;
+    font-weight: 500;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-size: 16px;
+    font-weight: 600;
 }
 
 .single-pill:hover {
@@ -1898,6 +1909,167 @@ section.faq-section .answercont .answer {
 section.faq-section span.sr {
     color: red;
     margin-right: 10px;
+}
+
+.newtable .table-bordered>tbody>tr>td, .newtable .table-bordered>tbody>tr>th, .newtable .table-bordered>thead>tr>td, .newtable .table-bordered>thead>tr>th {
+    border-color: #ccc;
+}
+
+.newtable .table-bordered>thead>tr>td, .newtable .table-bordered>tbody>tr>td:first-child {
+    border-color: #fff;
+    padding: 10px 0;
+}
+
+.newtable .table-bordered tr:nth-child(odd) td {
+    background: #eee;
+}
+
+.newtable td.forfirtcolor {
+    background: #FFC107  !important;
+}
+
+section.newtable {
+    padding: 15px;
+}
+
+.newtable .table {}
+
+.table-responsive {
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+section.game-detail {
+    padding: 40px 0 0;
+}
+
+section.game-detail .containers {
+    padding: 0 15px;
+}
+
+section.game-detail .rowr {
+    display: flex;
+}
+
+section.game-detail .rowr .col-left {
+    width: 35%;
+}
+
+section.game-detail .rowr .col-right {
+    width: 65%;
+}
+
+section.game-detail h2 {
+    font-size: 25px;
+    font-weight: 500;
+    color: #041f30;
+}
+
+section.game-detail  .content {}
+
+section.game-detail  .content h3 {
+    font-size: 20px;
+    font-weight: 500;
+    color: #041f30;
+    margin-bottom: 20px;
+}
+
+section.game-detail .content p {
+    font-size: 16px;
+    font-weight: 400;
+    color: #041f30;
+    line-height: 23px;
+    margin-bottom: 12px !important;
+    line-height: 160%;
+}
+
+section.game-detail .header_btn {
+    padding: 3px 10px 5px 15px;	
+}
+
+section.game-detail .header_btn span {
+    font-size: 14px;
+}
+
+.hide_text {
+    display: none;
+    transition: 300ms linear;
+}
+
+.panel-body {
+    padding: 20px 20px;
+}
+
+.panel-body tr:nth-child(odd) td {
+    background: #000;
+}
+
+.panel-body tr:nth-child(odd) th {
+    background: transparent;
+}
+
+.panel-body tr tdth {}
+
+.panel-body tr th {
+    padding: 12px 0;
+}
+
+.panel-body tr:nth-child(odd) {
+    background: #eee;
+}
+
+.panel-body tr th.color15 span,th.bluetext {
+    color: #000;
+}
+
+.panel-body tr:nth-child(2) th {
+    padding: 0;
+    border: 0;
+}
+
+.panel-body tr:nth-child(2) th table.table {}
+
+.panel-body tr:nth-child(2) th table.table th {
+    padding: 10px 0;
+    border-bottom: 1px solid #d7d7d7;
+    /* border-bottom: 0; */
+    border-right: 1px solid #d7d7d7;
+}
+
+.panel-body tr:nth-child(2) th:nth-child(1) {
+    border: 0;
+    /* background: #eee; */
+}
+
+.forChart.termspage {
+    padding: 30px 0;
+}
+.forChart.termspage .rw {
+
+}
+.forChart.termspage h2,
+.forChart.termspage h3 {
+    font-size: 18px;
+    font-weight: 600;
+    border-bottom: 1px dashed #c3c3c3;
+    /* display: inline-block; */
+    padding: 0 0 10px  0;
+    margin-bottom: 15px;
+	background: transparent;
+	text-align: left;
+}
+
+.forChart.termspage h3 strong, 
+.forChart.termspage h2 strong {
+    font-weight: 600;
+}
+
+.forChart.termspage li {
+	margin: 0 0 10px 0;
+}
+
+.forChart.termspage p {
+    padding: 0;
 }
 
 /*contact_details css start*/
