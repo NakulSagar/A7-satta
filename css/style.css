@@ -2020,7 +2020,8 @@ section.game-detail .header_btn span {
 }
 
 .panel-body tr th.color15 span,th.bluetext {
-    color: #000;
+    color: #000;	
+    font-weight: 600;
 }
 
 .panel-body tr:nth-child(2) th {

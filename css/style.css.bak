@@ -1609,7 +1609,8 @@ a {
     color: #000;
     font-weight: 700;
     margin: 0;
-    padding: 0
+    padding: 0;
+	font-size: 2rem;
 }
 
 .forfirtcolor {
